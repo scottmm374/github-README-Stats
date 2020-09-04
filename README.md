@@ -1,6 +1,8 @@
 # github-README-Stats
 Dynamic generated Stats Github Michelle Scott
 
+![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=scottmm374&show_icons=true&theme=bear)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scottmm374&repo=github-readme-stats)](https://github.com/scottmm374/github-readme-stats)
 
 [![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=scottmm374)](https://github.com/scottmm374/github-readme-stats)
@@ -10,5 +12,5 @@ Dynamic generated Stats Github Michelle Scott
 
 ### [Want to Try your own Readme Stats page?] (https://github.com/anuraghazra/github-readme-stats)
 
-![Michelle's github stats](https://github-readme-stats.vercel.app/api?username=scottmm374&show_icons=true&theme=radical)
+
 
